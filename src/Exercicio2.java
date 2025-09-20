@@ -1,4 +1,4 @@
-// Exercício 1: Verificador de Características de Um Produto
+// Exercício 2: Verificador de Características de Um Produto
 // Autor: [William Brito]
 // Data: [20-09-2025]
 
