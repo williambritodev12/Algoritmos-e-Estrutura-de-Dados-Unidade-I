@@ -2,6 +2,11 @@
 // Autor: [William Brito]
 // Data: [20-09-2025]
 
+/* Este programa lê o código de um produto e utliza uma estrutura condicional de (if-else)
+para verficar se o número é par ou ímpar.
+  */
+
+  
 import java.util.Scanner;
 
 public class Exercicio2 {

@@ -2,6 +2,10 @@
 // Autor: [William Brito]
 // Data: [20-09-2025]
 
+/*Este fluxo de um programa básico de reservas de hotel em Java demonstra a declaração e
+inicialização de variáveis, bem como a exibição formatada dessas variáveis no console.  
+utilizando (int, double, String).   
+ */
 
 
 public class Exercicio1 {
